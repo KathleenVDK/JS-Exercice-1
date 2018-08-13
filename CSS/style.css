@@ -1,0 +1,20 @@
+/****************/
+/* UTILS */
+/****************/
+#red {
+  border : 1px solid black;
+  width: 300px;
+  height: 100px;
+}
+
+#green {
+  border : 1px solid black;
+  width: 300px;
+  height: 100px;
+}
+
+#blue {
+  border : 1px solid black;
+  width: 300px;
+  height: 100px;
+}
